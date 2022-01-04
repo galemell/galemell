@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **galemell/galemell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<div>
+  <a href="https://github.com/galemell">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galemell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galemell&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -38,8 +44,3 @@ Here are some ideas to get you started:
  
 </div>
 -->
-<div>
-  <a href="https://github.com/galemell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galemell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galemell&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
